@@ -1,83 +1,72 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mahmoud-ElNagar.Mahmoud-ElNagar">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mahmoud+Ahmed+Elnagar;Web+Developer+%26+Founder+of+Infinity+Platform&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="#" title="GitHub Profile">💻 GitHub</a></code>
-  <code><a href="#" title="Portfolio">🌐 Portfolio</a></code>
-  <code><a href="#" title="Infinity Platform">🚀 Infinity Platform</a></code>
-</h5>
-
-<br>
+# Hi there, I'm Mahmoud Ahmed El-Naggar (Nøx) 👋
 
 <p align="center">
-  Hi, I'm <b>Mahmoud Ahmed Elnagar</b> 👋
-  <br>
-  Web Developer (Frontend-focused with Backend experience)
-  <br><br>
-  🧠 16 years old passionate programmer
-  <br>
-  🚀 Founder of <b>Infinity Platform</b>
-  <br>
-  💻 Specialized in building modern, responsive web applications
-  <br>
-  ⚙️ Strong in Frontend, with solid Backend fundamentals
-  <br>
-  🌱 Always learning and improving my skills
-  <br>
-  💬 Ask me anything about Web Development
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AI+Engineer+Enthusiast;UI%2FUX+Designer;The+Mind+Behind+Project-X" alt="Typing SVG" />
 </p>
 
-<hr>
+---
 
-<h2 align="center">🔥 Skills & Technologies 🔥</h2>
-<br>
+### 👨‍💻 About Me
+- 🚀 I'm a **Full Stack Web Developer** passionate about building scalable and intelligent systems.
+- 🎓 Student at **Mit Maimoun Secondary School** (Class of 2009 - 17 years old).
+- 🧠 My philosophy: Combining the strategy of **Kratos**, the discipline of **Boyka**, and the genius of **Tony Stark**.
+- 🛠️ Currently developing **Jarvis.Ai** and the **Infinity Platform System**.
 
+---
+
+### 🛠️ Tech Stack & Tools
 <p align="center">
-  <code><img title="HTML" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React.js" height="25" src="images/react-original.svg"></code>
-  <code><img title="Next.js" height="25" src="images/nextjs.svg"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="SQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="API Development" height="25" src="images/api.png"></code>
-  <code><img title="Server" height="25" src="images/server.png"></code>
+  <img src="https://skillicons.dev/icons?i=js,py,cs,cpp,react,nodejs,bootstrap,tailwind,html,css,sqlite,github,vscode,figma,canva&perline=8" />
 </p>
 
-<hr>
+**Other Tools & Technologies:**
+`Ui/Ux Design` • `API Integration` • `Git` • `Cursor AI` • `VN Video Editor` • `DaVinci Resolve`
 
-<h2 align="center">⚡ About Me ⚡</h2>
+---
 
-<p align="center">
-  🔹 Frontend Developer with strong UI/UX sense  
-  <br>
-  🔹 Backend experience using Django & Node.js  
-  <br>
-  🔹 Database handling with SQL  
-  <br>
-  🔹 Build full-stack projects from idea to deployment  
-  <br>
-  🔹 Passionate about startups & tech platforms  
+### 🚀 Professional Skills
+
+| 🏗️ Hard Skills | 🧠 Soft Skills |
+| :--- | :--- |
+| 🌐 Full Stack Web Development | 👑 Team Leadership |
+| 🎨 UI/UX Design | 🤝 Teamwork & Collaboration |
+| 🤖 AI Engineering | ⏱️ Time Management |
+| 📊 Data Analysis | 🎭 Emotional Intelligence |
+| 🎬 Video Editing & Motion | 🔥 Working Under Pressure |
+
+---
+
+### 📂 Top Tier Projects
+- 🤖 **Jarvis.Ai** [🔗] - *My personal AI assistant and OS.*
+- 🌐 **Infinity Platform System** [🔗] - *The hardest infinity architecture.*
+- 🦾 **Mark-7 Idea** [🔗] - *Hardware & Software integration concept.*
+- 📊 **Delta Force Dashboard** [🔗] - *Advanced information management system.*
+- 🎮 **Pubg Elite | BattleGround** [🔗] - *Gaming community platform.*
+- 🥊 **Boyka Page** [🔗] - *A tribute to discipline and strength.*
+- 📁 **Personal Portfolio** [🔗] - *Showcasing my journey.*
+
+---
+
+### 📱 Connect With Me
+<p align="left">
+<a href="YOUR_LINK"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
+<a href="YOUR_LINK"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+<a href="YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
+<a href="YOUR_LINK"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank"></a>
+<a href="YOUR_LINK"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
 </p>
 
-<hr>
+---
 
-<h2 align="center">📌 Current Focus 📌</h2>
+### 💳 Support & Payments
+- 💸 **Vodafone Cash:** `[Your Number]`
+- ⚡ **InstaPay:** `[Your Address]`
+- 🔵 **PayPal:** `[Your Link]`
+- 💳 **Fawry:** `[Your Reference]`
+
+---
 
 <p align="center">
-  🚀 Growing <b>Infinity Platform</b>  
-  <br>
-  ⚙️ Building scalable web applications  
-  <br>
-  📚 Deepening knowledge in Full-Stack Development  
+  <i>"The true power is not just in the code, but in the will to create the impossible."</i> <br>
+  <b>Executing Project-X...</b> 🚀
 </p>
