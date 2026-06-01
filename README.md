@@ -56,24 +56,6 @@
 
 ---
 
-<p align="center">
-  <h2 align="center">📂 Classified Projects (Top Tier)</h2>
-</p>
-
-<div align="center">
-
-| Project Name | Link | Description |
-| :--- | :---: | :--- |
-| 🤖 **Jarvis.Ai** | [🔗] | My Personal AI Assistant & OS |
-| 🌐 **Infinity Platform** | [🔗] | The Hardest Infrastructure System |
-| 🦾 **Mark-7 Idea** | [🔗] | Stark-inspired Hardware Integration |
-| 📊 **Delta Force Dashboard** | [🔗] | Strategic Information Management |
-| 🎮 **Pubg Elite** | [🔗] | BattleGround Community Hub |
-| 🥊 **Boyka Page** | [🔗] | Discipline & Strength Showcase |
-| 📁 **Portfolio** | [🔗] | The Roadmap of My Journey |
-
-</div>
-
 ---
 
 <p align="center">
@@ -89,16 +71,6 @@
 
 ---
 
-<p align="center">
-  <h2 align="center">💳 Financial Gateway</h2>
-</p>
-
-<p align="center">
-  <b>Vodafone Cash:</b> <code>[Number]</code> | <b>InstaPay:</b> <code>[Address]</code> <br>
-  <b>PayPal:</b> <code>[Link]</code> | <b>Fawry:</b> <code>[Ref]</code>
-</p>
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=em1-23&theme=vision-glow&hide_border=true" alt="GitHub Streak" />
