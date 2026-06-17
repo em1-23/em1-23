@@ -81,5 +81,6 @@
   <b>Status: Executing Project-X...</b> 🚀
 </p>
   <b>Executing Project-X...</b> 🚀
-  ### IN Micheal Jackson (BEAT IT _ BILLE JEAN )
+  <b align="center">### IN Micheal Jackson (BEAT IT _ BILLE JEAN )</b>
 </p>
+
