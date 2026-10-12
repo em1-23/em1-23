@@ -1,15 +1,7 @@
 ## Only Work As A Frontend Web Developer
 #### I'm In Deep Learning In BackEnd Now
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mahmoud%20Ahmed%20(Nøx)&fontSize=70&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Frontend+Developer;The+Nox;Mahmoud+Ahmed+Elnagar" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=em1-23&label=Profile%20Views&color=00d1ff&style=flat-square" alt="views" />
 </p>
 
 ---
@@ -31,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,cs,cpp,react,nodejs,bootstrap,tailwind,html,css,sqlite,github,vscode,figma,canva&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,bootstrap,tailwind,html,css,sqlite,github,vscode,figma,canva&perline=8" />
 </p>
 
 <p align="center">
