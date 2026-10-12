@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Engineering+Specialist;The+Mind+Behind+Project-X;Executing+Jarvis.Ai..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Frontend+Developer;The+Nox;Mahmoud+Ahmed+Elnagar" alt="Typing SVG" />
 </p>
 
 <p align="center">
